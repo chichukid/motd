@@ -1,0 +1,9 @@
+v1.3 already? well some overhaules were made. 
+added:
+:crates
+:entry for future map
+:player model
+got rid of:
+:caves
+:space on forest
+annnnddd thats about it! 
